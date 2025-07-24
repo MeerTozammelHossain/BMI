@@ -34,9 +34,10 @@ The dataset contains the following key variables:
 
 ### 1. BMI Calculation  
 - Computed BMI using the formula:  
-  \[
-  BMI = rac{ext{weight\_kg}}{(ext{height\_m})^2}
-  \]
+ \[
+\text{BMI} = \frac{\text{weight\_kg}}{(\text{height\_m})^2}
+\]
+
 
 ### 2. Descriptive Statistics  
 - Calculated frequencies and percentages for categorical variables.  
